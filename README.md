@@ -1,17 +1,17 @@
 ### Hi there 👋
 <h3 align="center">I'm Vidya. An aspiring Software Developer Engineer pursuing Bachelors in Artificial Intelligence and Data Science at CITChennai , India . Greetings from myself to you , I hope my github profile would give you a detailed view of my strengths in evergrowing technical fields.</h3>
 
-- -I’m currently working on a project named **Zersp , an E-commerce Website.**
+- I’m currently working on a project named **Zersp , an E-commerce Website.**
 
-- -I’m currently having my interest in **Flutter , C++ , AWS and Angular Js.**
+- I’m currently having my interest in **Flutter , C++ , AWS and Angular Js.**
 
-- -I would like to collaborate in **Full stack development projects and Database Management domain.**
+- I would like to collaborate in **Full stack development projects and Database Management domain.**
 
-- -I am familiar with **React Js , Java and Data Structures and Algorithms.**
+- I am familiar with **React Js , Java and Data Structures and Algorithms.**
 
-- -Reach me @ : **vidya.gwork@gmail.com**
+- Reach me @ : **vidya.gwork@gmail.com**
 
-- -And yes , **I like to sing and perform on stages as a band**
+- And yes , **I like to sing and perform on stages as a band**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=122004vv&show_icons=true&locale=en" alt="122004vv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=122004vv&" alt="122004vv" /></p>
+<!--p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=122004vv&" alt="122004vv" /></p>
