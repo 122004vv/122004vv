@@ -1,5 +1,5 @@
-### Hello fellowmate 👋
-<h3 align="center">Vidya here .I am currently being trained to be a Software Developer Engineer at CITChennai , India . I am currently a pre-final year student pursuing my Bachelors in Artificial Intelligence and Data Science . Let's connect in Linkedin!</h3>
+### Hey , cool seeing you here! 👋
+<h3 align="center">  It's Vidya , a pre-final year engineering student  . I am currently pursuing my Bachelors in Artificial Intelligence and Data Science & I am being trained to be a Software Developer Engineer . Let's connect in Linkedin!</h3>
 
 - I’m currently working on a project named **Zersp , an E-commerce Website.**
 
