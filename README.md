@@ -1,17 +1,17 @@
-### Hi there 👋
-<h3 align="center">I'm Vidya. An aspiring Software Developer Engineer pursuing Bachelors in Artificial Intelligence and Data Science at CITChennai , India . Greetings from myself to you , I hope my github profile would give you a detailed view of my strengths in evergrowing technical fields.</h3>
+### Hello fellowmate 👋
+<h3 align="center">Vidya here .I am currently being trained to be a Software Developer Engineer at CITChennai , India . I am currently a pre-final year student pursuing my Bachelors in Artificial Intelligence and Data Science . Let's connect in Linkedin!</h3>
 
 - I’m currently working on a project named **Zersp , an E-commerce Website.**
 
-- I’m currently having my interest in **Flutter , C++ , AWS and Angular Js.**
+- I’m currently having my interest in **Flutter , C++ , AWS and Next Js.**
 
-- I would like to collaborate in **Full stack development projects and Database Management domain.**
+- I would like to collaborate in **Full stack development projects and in Database Management domain.**
 
-- I am familiar with **React Js , Java and Data Structures and Algorithms.**
+- I am familiar with **React Js , Node Js, MySQL , MSSQL, Java and Data Structures and Algorithms Concepts.**
 
 - Reach me @ : **vidya.gwork@gmail.com**
 
-- And yes , **I like to sing and perform on stages as a band**
+- And yes , **I like to sing and perform on stages with a band**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
