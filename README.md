@@ -1,17 +1,13 @@
 ### Hey , cool seeing you here! 👋
 <h3 align="center">  It's Vidya , a final year engineering student at CITChennai , India . I am currently pursuing my Bachelors in Artificial Intelligence and Data Science & I am being trained to be a Software Developer Engineer . Let's connect in Linkedin!</h3>
 
-- I’m currently working on a project named **Zersp , an E-commerce Website.**
-
-- I’m currently having my interest in **Flutter , C++ , AWS and Next Js.**
-
+- I’m currently working on as a Software Engineer Intern @ **Autodesk**
+- I’m currently having my interest in **C++ , Azure and Next Js.**
 - I would like to collaborate in **Full stack development projects and in Database Management domain.**
-
 - I am familiar with **React Js , Node Js, MySQL , MSSQL, Java and Data Structures and Algorithms Concepts.**
 
 - Reach me @ : **vidya.gwork@gmail.com**
-
-- And yes , **I love to sing and perform on stages with a band of musicians**
+- And yes , **I love to sing and perform on stages with a band of musicians :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
